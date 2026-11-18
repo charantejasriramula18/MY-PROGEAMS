@@ -8,6 +8,6 @@ scanf("%d", &a);
 printf("Enter second number:");
 scanf("%d", &b);
 c= a%b;
-printf("Sum of two numbers = %d",c);
+printf("division of two numbers = %d",c);
 return 0;
 }
